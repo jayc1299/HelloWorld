@@ -4,6 +4,7 @@ metadata:
   name: HelloWorld
   annotations:
     github.com/project-slug: jayc1299/HelloWorld
+    backstage.io/code-coverage: enabled
 spec:
   type: other
   lifecycle: unknown
