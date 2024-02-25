@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HelloWorld
+  annotations:
+    github.com/project-slug: jayc1299/HelloWorld
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jayc1299
