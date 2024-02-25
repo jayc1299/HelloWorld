@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: jayc1299/HelloWorld
     backstage.io/code-coverage: enabled
+    sonarqube.org/project-key: YOUR_INSTANCE_NAME/YOUR_PROJECT_KEY
 spec:
   type: other
   lifecycle: unknown
